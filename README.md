@@ -112,7 +112,7 @@ Educators can request it — see the contact details in the
 ## Authors
 
 - Ildar Akhmetov ([@ildarakhmetov](https://github.com/ildarakhmetov))
-- Juancho ([@sillyfunnypedro](https://github.com/sillyfunnypedro))
+- Juancho Buchanan ([@sillyfunnypedro](https://github.com/sillyfunnypedro))
 
 ## License
 
