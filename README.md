@@ -15,9 +15,10 @@ probabilities against Monte Carlo simulation.
 
 ## Why this project works in the classroom
 
-This assignment is described and evaluated in the accompanying paper:
+This assignment is one of the integrated projects described in the accompanying paper:
 
-> **[Teaching Probability Through Game Simulation](https://arxiv.org/abs/2604.16365)**
+> **["CS 1.5": An Experience Report on Integrating CS1 and Discrete Structures for the
+> AI Era](https://arxiv.org/abs/2604.16365)** — Ildar Akhmetov, Juancho Buchanan
 > (arXiv:2604.16365)
 
 The core idea: students don't just compute probabilities on paper — they implement them,
