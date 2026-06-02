@@ -109,6 +109,11 @@ Educators can request it — see the contact details in the
 [paper](https://arxiv.org/abs/2604.16365), or open an issue in the
 [cs1-5](https://github.com/cs1-5) organization.
 
+## Authors
+
+- Ildar Akhmetov ([@ildarakhmetov](https://github.com/ildarakhmetov))
+- Juancho ([@sillyfunnypedro](https://github.com/sillyfunnypedro))
+
 ## License
 
 Released under [**CC0 1.0 Universal**](LICENSE) — effectively public domain. You may copy,
